@@ -32,7 +32,6 @@
 		   
 		2. table[1][3] refers to an ekenent within specifc row
 		   
-		3. https://slideplayer.com/slide/5239308/
 		   
 2. Input & edit 
    
