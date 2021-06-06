@@ -1,8 +1,9 @@
 # **About Containers in CPP** 
 
+**1) Vector Container**
 ---
 
-**Vector Container**
+**1) Vector Container**
 1. Initialize
 	1. #include <vector>
 	2. vector<int> vect;
@@ -22,7 +23,6 @@
 2. Input & edit 
 	1. push_back();// vect.push_back(x); //adds element to end
 	2. pop_back();// vec.pop_back(); //removes last element
-		1. 
 	3. vec.clear() //Removes all the elements	   
 		1.  clear() function can be used to erase all elements in the vector without reducing the capacity		
 	4. vec.reserve(10) //increase vector capacity to 10 elements
