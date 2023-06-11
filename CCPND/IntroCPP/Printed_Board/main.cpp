@@ -10,7 +10,7 @@
 using namespace std;
 
 enum class State { Kempty, Kobstcale };
-
+// commit the file
 vector<State> ParseLine(string line) {
 	vector <State> type;
  	istringstream sline(line);
